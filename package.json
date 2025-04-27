@@ -1,0 +1,48 @@
+{
+  "name": "@nyxobscura/ludovica",
+  "version": "1.0.0",
+  "description": "Null",
+  "main": "index.js",
+  "bin": {
+    "nyxobscura": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nyxobscura",
+    "connect",
+    "api",
+    "cli",
+    "module",
+    "nodejs"
+  ],
+  "author": "NyxObscura",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyxObscura/ludovica.git",
+    "homepage": "https://www.obscuraworks.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NycObscura/ludovica/issues",
+    "email": "service@obscuraworks.com"
+  },
+  "contributors": [
+    {
+      "name": "NyxObscura",
+      "email": "service@obscuraworks.com",
+      "url": "https://github.com/NyxObscura"
+    }
+  ],
+  "homepage": "https://obscuraworks.com",
+  "licenseText": "MIT License. See the LICENSE file for more details.",
+  "private": false
+}
